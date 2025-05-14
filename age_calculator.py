@@ -24,5 +24,3 @@ def main():
         print("Invalid date format. Please use YYYY-MM-DD.")
 
 main()
-
-# Test
